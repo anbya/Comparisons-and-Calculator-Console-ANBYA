@@ -1,1 +1,1 @@
-# This is README.md for project-javascript-data-types
+# This is README.md for Project JavaScript Comparisons & Calculator Console
